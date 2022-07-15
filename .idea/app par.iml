@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/app_par/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/app_par/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/app_par/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bmi_screen/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/bmi_screen/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bmi_screen/build" />
+      <excludeFolder url="file://$MODULE_DIR$/challenge1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/challenge1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/challenge1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/challenge1_2/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/challenge1_2/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/challenge1_2/build" />
+      <excludeFolder url="file://$MODULE_DIR$/challenge3/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/challenge3/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/challenge3/build" />
+      <excludeFolder url="file://$MODULE_DIR$/counter_screen/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/counter_screen/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/counter_screen/build" />
+      <excludeFolder url="file://$MODULE_DIR$/image_video/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/image_video/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/image_video/build" />
+      <excludeFolder url="file://$MODULE_DIR$/list_view/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/list_view/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/list_view/build" />
+      <excludeFolder url="file://$MODULE_DIR$/list_view2/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/list_view2/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/list_view2/build" />
+      <excludeFolder url="file://$MODULE_DIR$/login_design/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/login_design/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/login_design/build" />
+      <excludeFolder url="file://$MODULE_DIR$/messenger_design/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/messenger_design/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/messenger_design/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>
